@@ -20,6 +20,7 @@ npm install
 ```
 
 2. Change to your connection info on _src/database/connection.js_ on line 3
+   ![Code Snap from connection](http://url/to/img.png)
 3. Make sure you're database connection is up and running
 4. Inside the project folder run:
 ```
