@@ -11,3 +11,17 @@ This project was created using:
 
 - The project is separated as Controllers, Routes and Database folders.
 - Simple to use, just rename the database connection to yours.
+
+## Running the code
+
+1. After downloading, run:
+```
+npm install
+```
+
+2. Change to your connection info on _src/database/connection.js_ on line 3
+3. Make sure you're database connection is up and running
+4. Inside the project folder run:
+```
+npm start
+```
